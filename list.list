@@ -1,9 +1,0 @@
-#direct
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/category,policy=DIRECT,tag=ChinaDomian,desc=中国常用域名
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/ChinaCompanyIp.list,policy=DIRECT,tag=ChinaCompanyIp,desc=中国互联网公司IP
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/WeChat.list,policy=DIRECT,tag=WeChat,desc=微信常用域名和IP
-https://raw.githubusercontent.com/Loon0x00/LoonLiteRules/main/direct/cn.list,policy=DIRECT,tag=cn,desc=GEOIP CN
-
-#reject
-
-#proxy
